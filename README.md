@@ -12,7 +12,7 @@ This is a simple Rock Paper Scissors game implemented using Jetpack Compose and 
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/0f7f3889-5186-47e9-b545-a0d95a144822)
 
 ## Getting Started
 
