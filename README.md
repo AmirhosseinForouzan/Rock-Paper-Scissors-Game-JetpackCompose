@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-This is a simple Rock Paper Scissors game implemented using Jetpack Compose and MVVM architecture in Kotlin. The game allows users to play against the computer, keeps track of scores, and provides a reset option to clear the scores.
+This is a simple Rock Paper Scissors game implemented using Jetpack Compose and MVVM architecture in Kotlin. The game allows users to play against the computer.
 
 ## Features
 
